@@ -54,4 +54,5 @@ func main() {
 	for _, episode := range q.EpisodeList {
 		fmt.Printf("\t%s\n", episode)
 	}
+
 }
