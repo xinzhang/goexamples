@@ -1,0 +1,23 @@
+{
+  "success": {
+      "total": 1
+  },
+  "contents": {
+      "quotes": [
+          {
+              "quote": "When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength—400 to 700 nanometers. Then I thought, well it’s really silly to be afraid of a lack of photons. Then I wasn’t afraid of the dark anymore after that.",
+              "author": "Elon Musk",
+              "length": "303",
+              "tags": [
+                  "fear",
+                  "inspire"
+              ],
+              "category": "inspire",
+              "title": "Inspiring Quote of the day",
+              "date": "2019-01-26",
+              "id": null
+          }
+      ],
+      "copyright": "2017-19 theysaidso.com"
+  }
+}
