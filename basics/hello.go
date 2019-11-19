@@ -1,7 +1,7 @@
 package main
 
 import (
-	"learning/utility"
+	"goexamples/basics/utility"
 )
 
 func main() {
